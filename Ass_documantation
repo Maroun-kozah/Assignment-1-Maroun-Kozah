@@ -1,0 +1,24 @@
+Introduction:
+This document provides an overview of the development process and challenges faced during the creation of the project.
+
+Technologies Used:
+React
+Vite
+Tailwind CSS
+
+Challenges Faced:
+Beginner Level: Initially, I faced challenges with setting up the development environment and installing all the necessary packages to start the React project.
+ This involved understanding package managers and basic project setup procedures.
+Tailwind CSS Installation: Installing and configuring Tailwind CSS was another challenge.
+ Understanding how to integrate Tailwind CSS with React and configuring it properly required some research and experimentation.
+Library Search for Styling: Finding the right library to style the web application was a significant challenge.
+ I explored different options and evaluated their compatibility with React and ease of use.
+
+Solutions:
+Beginner Level: To overcome the initial challenges as a beginner, I referred to online tutorials and documentation resources.
+ I followed step-by-step guides and sought help from online communities when encountering issues.
+Tailwind CSS Installation: After encountering difficulties with Tailwind CSS installation, I carefully followed the official documentation and troubleshooting guides.
+ I also utilized community forums and Stack Overflow to resolve specific issues.
+
+Conclusion:
+Despite facing challenges along the way, the development process was a valuable learning experience. Overcoming obstacles helped me improve my problem-solving skills and gain a deeper understanding of web development technologies.
